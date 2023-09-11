@@ -1,0 +1,19 @@
+4. How to add Swagger in project ?
+
+1.1 - Add dependency for swagger in pom.xml
+
+google - (spring boot swagger 3) -> put it as it is covered in bracket  - click on first link - reffer below dependency among them.
+
+<dependency>
+			<groupId>org.springdoc</groupId>
+			<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+			<version>2.1.0</version>
+		</dependency>
+1.2 - then scroll down in same page and search below link in that then click on below link
+
+ http://localhost:8080/swagger-ui/index.html		
+
+
+1.2 - search for get,put,post and delete methods. 
+
+1.2 - done
